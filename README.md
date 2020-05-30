@@ -2,6 +2,8 @@
 Bryan Miguel Arias Canchihuaman
 Mi primer Proyecto ---> Proyecto1
 
+![enter image description here](sequence.jpg)
+
 ```mermaid
 sequenceDiagram
     Bryan ->> Backend: Estructura MVC
