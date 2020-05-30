@@ -1,5 +1,5 @@
 # Proyecto1
-Bryan Miguel Arias Canchihuaman
+Bryan Miguel Arias Canchihuaman<br>
 Mi primer Proyecto ---> Proyecto1
 
 ![enter image description here](sequence.jpg)
@@ -11,4 +11,4 @@ sequenceDiagram
     Note right of Backend: Reto Completado Exitosamente.
 ```
 
-### NOTA: No me salie codigo de sequence ↑↑↑
+### NOTA: No me salió el codigo de sequence ↑↑↑
