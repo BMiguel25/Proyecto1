@@ -8,7 +8,14 @@ Bryan ->> Backend: Estructura MVC
 Backend--x Bryan: Estructura Correcta
 Note right of Backend: Reto Completado Exitosamente.
 
-
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
 
 ```mermaid
 sequenceDiagram
